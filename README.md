@@ -21,7 +21,7 @@ Underwent DCF Analysis through WACC-based discount rate to analyse and forecast 
   Holds the DCF Model that includes the expected EBIT growth and revenue growth alongside discounting factors of WACC. Revenue growth have been forecasted using historical mean and stadard deviations, where I have generated a normally generated random figure. Excel file also contains financial records and calculations that I have reconciled and approximated from available sources online.
 
 
-##Limitations:
+## Limitations:
 
 - Calculation of WACC using my approach to generate and forecast projected revenue using historical mean and standard deviation ultimately led to significant variance in the outcome of the FCF Calculation, which consequently impact the firm value and share price calculation
 
