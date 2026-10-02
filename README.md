@@ -30,3 +30,14 @@ Underwent DCF Analysis through WACC-based discount rate to analyse and forecast 
 - Used the CAPM approach to calculate cost of equity that impacts the overall WACC. However, limitations of this exist such as Beta being a measure of systematic risk faced by holding Hyundai shares and thus cannot be accurately measured, the Market Rate also needs to be approximated and cannot be pinpointed and a higher beta does not necessarily yield greater returns and thus shows very little correlation between High Beta (High systematic risk) vs Shareholder Returns
 
 
+## Potential Improvements:
+
+- When calculating the cost of equity, can also utilise the Dividend Growth Model to historically track change in cost of equity throughout time
+
+- Double confirmation of dataset and calculation of key components like Capital Expenditures captured within the file. So far, I have realistically assumed off of the financial statements to estimate the capital expenditures and other components that were not directly listed
+
+## References:
+- https://www.hyundai.com/worldwide/en/company/ir/financial-information/quarterly-earnings
+- https://www.alphaspread.com/security/krx/005380/discount-rate
+- https://www.investopedia.com/
+- https://valueinvesting.io/005380.KS/valuation/wacc
